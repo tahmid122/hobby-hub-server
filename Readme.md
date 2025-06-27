@@ -1,4 +1,4 @@
-# 🧠 HobbyHub Backend
+# <img src="https://i.ibb.co/B2yXL3vd/logo1.png" height="60px" width="60px"/> HobbyHub Backend
 
 The **HobbyHub Backend** is the server-side application powering the HobbyHub platform — a community-based app where users can create, join, and manage hobby groups. This backend provides RESTful APIs for all core features such as group creation, retrieval, updating, and deletion.
 
